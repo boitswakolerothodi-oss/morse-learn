@@ -1,4 +1,4 @@
-# Morse Typing Trainer for Gboard
+https://github.com/googlecreativelab/morse-learn.git# Morse Typing Trainer for Gboard
 We created this trainer to make learning Morse code more fun. Give it a try once you’ve set up [Morse code for Gboard](https://support.google.com/accessibility/android/answer/9011881) and are ready to get started learning Morse.
 
 This experiment is part of a larger project to support Morse code for more accessible communication.
